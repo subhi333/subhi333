@@ -7,9 +7,9 @@ Software Developer
 - 👯 I’m currently looking for an opportunity in Developing 
 - 🤔 I’m looking for help with Placements
 - 💬 I'm a Coder....
-- 😄 Pronouns: Techie <br>
+- 😄 Pronouns: Techie 
 - 📫 How to reach me :
-<br /> [<img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subhikshan-r-0b64481b6/)
+<br /> [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subhikshan-r-0b64481b6/)
 - ⚡ Fun fact: I'm a Photographer Too
 
 ### I code in
