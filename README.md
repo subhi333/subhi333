@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Subhikshan R
 
 Software Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif?cid=ecf05e47bhbt1fq4uklc0qbcgoucd0752fekxe4phzlaywc0&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 - 🔭 Here's my [portfolio]( )                                                 
 - 🌱 I’m currently learning Frontend Frameworks
 - 👯 I’m currently looking for an opportunity in Developing 
