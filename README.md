@@ -19,5 +19,5 @@ Software Developer
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
 
-(![subhi333's Stats](https://github-readme-stats.vercel.app/api?username=subhi333&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+![subhi333's Stats](https://github-readme-stats.vercel.app/api?username=subhi333&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
